@@ -525,25 +525,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EjeDesarrolloCS-162\\.nuget\\packages\\": {},
+    "C:\\Users\\Edgar\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EjeDesarrolloCS-162\\Desktop\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj",
+      "projectUniqueName": "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj",
       "projectName": "calculadora finiquito",
-      "projectPath": "C:\\Users\\EjeDesarrolloCS-162\\Desktop\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj",
-      "packagesPath": "C:\\Users\\EjeDesarrolloCS-162\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EjeDesarrolloCS-162\\Desktop\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\obj\\",
+      "projectPath": "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj",
+      "packagesPath": "C:\\Users\\Edgar\\.nuget\\packages\\",
+      "outputPath": "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\EjeDesarrolloCS-162\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -595,7 +595,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

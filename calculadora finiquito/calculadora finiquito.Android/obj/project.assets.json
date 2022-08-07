@@ -3172,24 +3172,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EjeDesarrolloCS-162\\.nuget\\packages\\": {},
+    "C:\\Users\\Edgar\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EjeDesarrolloCS-162\\Desktop\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.Android\\calculadora finiquito.Android.csproj",
+      "projectUniqueName": "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.Android\\calculadora finiquito.Android.csproj",
       "projectName": "calculadora finiquito.Android",
-      "projectPath": "C:\\Users\\EjeDesarrolloCS-162\\Desktop\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.Android\\calculadora finiquito.Android.csproj",
-      "packagesPath": "C:\\Users\\EjeDesarrolloCS-162\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EjeDesarrolloCS-162\\Desktop\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.Android\\obj\\",
+      "projectPath": "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.Android\\calculadora finiquito.Android.csproj",
+      "packagesPath": "C:\\Users\\Edgar\\.nuget\\packages\\",
+      "outputPath": "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\EjeDesarrolloCS-162\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3203,8 +3203,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\EjeDesarrolloCS-162\\Desktop\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj": {
-              "projectPath": "C:\\Users\\EjeDesarrolloCS-162\\Desktop\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj"
+            "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj": {
+              "projectPath": "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj"
             }
           }
         }

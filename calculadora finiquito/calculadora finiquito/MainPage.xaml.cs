@@ -12,7 +12,7 @@ namespace calculadora_finiquito
     {
         public MainPage()
         {
-            InitializeComponent();
+            InitializeComponent();//comentario de prueba para github ////
         }
 
         private void btn_liq_Clicked(object sender, EventArgs e)

@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "7mITN1TDD++z96Tx1P/P2NPPC8wCoVVlAx2JOZwZRRD9iW1RWDdvfuNRIi5/EdqyZagp9cTOW8Kg4WpkCn6xFw==",
+  "dgSpecHash": "IvasPah7I98WAOI4tTAMqVVq5VD+NjXXLveTeYitzShKd/yVFKub64BprDRwr829BiqybDJ+U1D6UbPBuKHSwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EjeDesarrolloCS-162\\Desktop\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj",
+  "projectFilePath": "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\EjeDesarrolloCS-162\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\EjeDesarrolloCS-162\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\EjeDesarrolloCS-162\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\EjeDesarrolloCS-162\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\EjeDesarrolloCS-162\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512"
+    "C:\\Users\\Edgar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512"
   ],
   "logs": []
 }
