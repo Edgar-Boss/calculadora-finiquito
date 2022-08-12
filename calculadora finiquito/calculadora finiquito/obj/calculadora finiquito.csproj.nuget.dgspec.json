@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj": {}
+    "C:\\Users\\Edgar\\OneDrive\\Escritorio\\calculadora-finiquito-main\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj": {
+    "C:\\Users\\Edgar\\OneDrive\\Escritorio\\calculadora-finiquito-main\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj",
+        "projectUniqueName": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\calculadora-finiquito-main\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj",
         "projectName": "calculadora finiquito",
-        "projectPath": "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj",
+        "projectPath": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\calculadora-finiquito-main\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj",
         "packagesPath": "C:\\Users\\Edgar\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito\\obj\\",
+        "outputPath": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\calculadora-finiquito-main\\calculadora finiquito\\calculadora finiquito\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -53,11 +53,19 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.7.0, )"
+              "version": "[1.7.3, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2515, )"
+            },
+            "Xamarin.Forms.Pages": {
+              "target": "Package",
+              "version": "[4.8.0.1821, )"
+            },
+            "Xamarin.Forms.Pages.Azure": {
+              "target": "Package",
+              "version": "[4.8.0.1821, )"
             }
           },
           "imports": [

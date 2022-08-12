@@ -1,10 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "Vtmdd69MT5yuMwHopkfIsy4rks40K490gh+e+MyEyEGCMfRW5J8x3yrMAv0aZ1O3ovZZTBE31VA8rM7IV6hyow==",
+  "dgSpecHash": "aKKaS/ejCXN1D3yduyaJPYL/c7pD7gJzMubtOho7vkhAadbdUbRP4Th1okdzDB2RnkSyE9CUgpkCpvkB4GZzEg==",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\workspace visual\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.Android\\calculadora finiquito.Android.csproj",
+  "projectFilePath": "C:\\Users\\Edgar\\OneDrive\\Escritorio\\calculadora-finiquito-main\\calculadora finiquito\\calculadora finiquito.Android\\calculadora finiquito.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Edgar\\.nuget\\packages\\microsoft.azure.mobile.client\\4.1.2\\microsoft.azure.mobile.client.4.1.2.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\pclcrypto\\2.0.147\\pclcrypto.2.0.147.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\pinvoke.bcrypt\\0.3.2\\pinvoke.bcrypt.0.3.2.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\pinvoke.kernel32\\0.3.2\\pinvoke.kernel32.0.3.2.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\pinvoke.ncrypt\\0.3.2\\pinvoke.ncrypt.0.3.2.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\pinvoke.windows.core\\0.3.2\\pinvoke.windows.core.0.3.2.nupkg.sha512",
     "C:\\Users\\Edgar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\validation\\2.2.8\\validation.2.2.8.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.android.support.customtabs\\23.3.0\\xamarin.android.support.customtabs.23.3.0.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.android.support.v4\\23.3.0\\xamarin.android.support.v4.23.3.0.nupkg.sha512",
     "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
     "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.1.0.1\\xamarin.androidx.annotation.experimental.1.1.0.1.nupkg.sha512",
@@ -58,21 +68,12 @@
     "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.androidx.versionedparcelable\\1.1.1.8\\xamarin.androidx.versionedparcelable.1.1.1.8.nupkg.sha512",
     "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.androidx.viewpager\\1.0.0.8\\xamarin.androidx.viewpager.1.0.0.8.nupkg.sha512",
     "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.androidx.viewpager2\\1.0.0.10\\xamarin.androidx.viewpager2.1.0.0.10.nupkg.sha512",
-    "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.forms.pages\\4.8.0.1821\\xamarin.forms.pages.4.8.0.1821.nupkg.sha512",
+    "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.forms.pages.azure\\4.8.0.1821\\xamarin.forms.pages.azure.4.8.0.1821.nupkg.sha512",
     "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.google.android.material\\1.4.0.2\\xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "C:\\Users\\Edgar\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Degradación del paquete detectada: Xamarin.Forms de 5.0.0.2515 a 5.0.0.2196. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n calculadora finiquito.Android -> calculadora finiquito -> Xamarin.Forms (>= 5.0.0.2515) \r\n calculadora finiquito.Android -> Xamarin.Forms (>= 5.0.0.2196)",
-      "libraryId": "Xamarin.Forms",
-      "targetGraphs": [
-        "MonoAndroid,Version=v12.0"
-      ]
-    }
-  ]
+  "logs": []
 }

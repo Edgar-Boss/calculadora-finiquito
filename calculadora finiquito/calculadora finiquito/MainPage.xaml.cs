@@ -13,6 +13,9 @@ namespace calculadora_finiquito
         public MainPage()
         {
             InitializeComponent();//comentario de prueba para github ////
+            //string Codigo;
+            //Codigo = "+522228146593";
+            //Chat.Open(Codigo, "mesanje prueba");
         }
 
         private void btn_liq_Clicked(object sender, EventArgs e)
