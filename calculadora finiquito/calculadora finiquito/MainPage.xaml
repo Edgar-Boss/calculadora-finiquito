@@ -3,73 +3,70 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              
              x:Class="calculadora_finiquito.MainPage">
+    <ScrollView>
+        <StackLayout Background="White" Spacing="80" Margin="0,50,0,0"  >
+            <StackLayout VerticalOptions="Start" HorizontalOptions="CenterAndExpand"  >
+                <Label TextColor="SlateGray" Text="Bienvenido a calculadora" FontSize="Large"/>
+                <Label TextColor="SlateGray" Text="finiquito/liquidación" FontSize="Large" HorizontalOptions="Center"/>
+            </StackLayout>
 
-    <StackLayout Background="White" Spacing="80" Margin="0,50,0,0"  >
-        <StackLayout VerticalOptions="Start" HorizontalOptions="CenterAndExpand"  >
-            <Label TextColor="SlateGray" Text="Bienvenido a calculadora" FontSize="Large"/>
-            <Label TextColor="SlateGray" Text="finiquito/liquidación" FontSize="Large" HorizontalOptions="Center"/>
-        </StackLayout>
-        
-        <StackLayout >
-            <Label HorizontalOptions="Center" TextColor="SlateGray" Text="Ingrese su estado" FontSize="Medium"/>
-            <Picker x:Name="pk_estados" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" Margin="100,0,100,0" TitleColor="LightGray" Title="Selección" HorizontalTextAlignment="Center" >
-                <Picker.Items>
-                    <x:String>Aguas Calientes</x:String>
-                    <x:String>Baja California</x:String>
-                    <x:String>Baja California Sur</x:String>
-                    <x:String>Campeche</x:String>
-                    <x:String>Chiapas</x:String>
-                    <x:String>Chihuahua</x:String>
-                    <x:String>Ciudad de México</x:String>
-                    <x:String>Coahuila</x:String>
-                    <x:String>Colima</x:String>
-                    <x:String>Durango</x:String>
-                    <x:String>Estado de México</x:String>
-                    <x:String>Guanajuato</x:String>
-                    <x:String>Guerrero</x:String>
-                    <x:String>Hidalgo</x:String>
-                    <x:String>Jalisco</x:String>
-                    <x:String>Michoacán</x:String>
-                    <x:String>Morelos</x:String>
-                    <x:String>Nayarit</x:String>
-                    <x:String>Nuevo León</x:String>
-                    <x:String>Oaxaca</x:String>
-                    <x:String>Puebla</x:String>
-                    <x:String>Querétaro</x:String>
-                    <x:String>Quintana Roo</x:String>
-                    <x:String>San Luis Potosí</x:String>
-                    <x:String>Sinaloa</x:String>
-                    <x:String>Sonora</x:String>
-                    <x:String>Tabasco</x:String>
-                    <x:String>Tamaulipas</x:String>
-                    <x:String>Tlaxcala</x:String>
-                    <x:String>Veracruz</x:String>
-                    <x:String>Yucatán</x:String>
-                    <x:String>Zacatecas</x:String>
-                   
-                </Picker.Items>
-            </Picker>
-            <Label></Label>
-            <Label  Text="¿Como fue su salida de la empresa?" HorizontalOptions="Center"/>
-            
-            <Frame Padding="4" WidthRequest="200" HeightRequest="30" VerticalOptions="FillAndExpand" HorizontalOptions="Center" >
-                <Button  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Font="10" Text="Despido" BackgroundColor="White" x:Name="btn_liq" Clicked="btn_liq_Clicked"/>
-            
-            </Frame>
-            <Frame Padding="4" WidthRequest="200" HeightRequest="30" VerticalOptions="FillAndExpand" HorizontalOptions="Center" >
-                <Button  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Font="10" Text="Renuncia" BackgroundColor="White" x:Name="btn_fin" Clicked="btn_fin_Clicked"/>
+            <StackLayout >
+                <Label HorizontalOptions="Center" TextColor="SlateGray" Text="Ingrese su estado" FontSize="Medium"/>
+                <Picker x:Name="pk_estados" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" Margin="100,0,100,0" TitleColor="LightGray" Title="Selección" HorizontalTextAlignment="Center" >
+                    <Picker.Items>
+                        <x:String>Aguas Calientes</x:String>
+                        <x:String>Baja California</x:String>
+                        <x:String>Baja California Sur</x:String>
+                        <x:String>Campeche</x:String>
+                        <x:String>Chiapas</x:String>
+                        <x:String>Chihuahua</x:String>
+                        <x:String>Ciudad de México</x:String>
+                        <x:String>Coahuila</x:String>
+                        <x:String>Colima</x:String>
+                        <x:String>Durango</x:String>
+                        <x:String>Estado de México</x:String>
+                        <x:String>Guanajuato</x:String>
+                        <x:String>Guerrero</x:String>
+                        <x:String>Hidalgo</x:String>
+                        <x:String>Jalisco</x:String>
+                        <x:String>Michoacán</x:String>
+                        <x:String>Morelos</x:String>
+                        <x:String>Nayarit</x:String>
+                        <x:String>Nuevo León</x:String>
+                        <x:String>Oaxaca</x:String>
+                        <x:String>Puebla</x:String>
+                        <x:String>Querétaro</x:String>
+                        <x:String>Quintana Roo</x:String>
+                        <x:String>San Luis Potosí</x:String>
+                        <x:String>Sinaloa</x:String>
+                        <x:String>Sonora</x:String>
+                        <x:String>Tabasco</x:String>
+                        <x:String>Tamaulipas</x:String>
+                        <x:String>Tlaxcala</x:String>
+                        <x:String>Veracruz</x:String>
+                        <x:String>Yucatán</x:String>
+                        <x:String>Zacatecas</x:String>
+                    </Picker.Items>
+                </Picker>
+                <Label></Label>
+                <Label  Text="¿Como fue su salida de la empresa?" HorizontalOptions="Center"/>
 
-            </Frame>
-        </StackLayout>
-        
-        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" >
-            
-           
-        </StackLayout>
-        <StackLayout VerticalOptions="End">
-            <Label TextColor="LightGray" HorizontalOptions="End" Text="v 2.0.0      "/>
-        </StackLayout>
-        
+                <Frame Padding="4" WidthRequest="200" HeightRequest="30" VerticalOptions="FillAndExpand" HorizontalOptions="Center" >
+                    <Button  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Font="10" Text="Despido" BackgroundColor="White" x:Name="btn_liq" Clicked="btn_liq_Clicked"/>
 
-    </StackLayout>
+                </Frame>
+                <Frame Padding="4" WidthRequest="200" HeightRequest="30" VerticalOptions="FillAndExpand" HorizontalOptions="Center" >
+                    <Button  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Font="10" Text="Renuncia" BackgroundColor="White" x:Name="btn_fin" Clicked="btn_fin_Clicked"/>
+
+                </Frame>
+            </StackLayout>
+
+            <StackLayout VerticalOptions="End">
+                <Label TextColor="LightGray" HorizontalOptions="End" Text="v 2.0.0      "/>
+            </StackLayout>
+
+
+        </StackLayout>
+    </ScrollView>
+    
 </ContentPage>

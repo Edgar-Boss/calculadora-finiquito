@@ -6,7 +6,7 @@
     <NavigationPage.TitleView>
         <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="FillAndExpand"  Spacing="10" Margin="0,0,10,0" >
             <Label Text="Resultado" FontSize="22" TextColor="White" HorizontalOptions="Start" VerticalOptions="Center" Margin="0,0,150,0"/>
-            <ImageButton x:Name="btn_wts" Source="whatsapp.png"  HorizontalOptions="End" HeightRequest="20" WidthRequest="20" Margin="20,0,0,0" Clicked="btn_wp_Clicked" />
+            <ImageButton x:Name="btn_wts" Source="whatsapp.png"  BackgroundColor="Transparent" HorizontalOptions="End" HeightRequest="20" WidthRequest="20" Margin="20,0,0,0" Clicked="btn_wp_Clicked" />
         </StackLayout>
     </NavigationPage.TitleView>
 
