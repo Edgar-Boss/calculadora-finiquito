@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calculadora finiquito")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59ce00b72d0da0fbb5579677cfa3590da4328fcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("calculadora finiquito")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calculadora finiquito")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

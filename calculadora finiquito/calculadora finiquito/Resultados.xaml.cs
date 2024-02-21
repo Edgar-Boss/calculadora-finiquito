@@ -30,7 +30,14 @@ namespace calculadora_finiquito
             
 
         }
+        protected override void OnAppearing()
+        {
 
+            base.OnAppearing();
+           
+            
+            
+        }
         [Obsolete]
         private async void btn_wp_Clicked(object sender, EventArgs e)
         {

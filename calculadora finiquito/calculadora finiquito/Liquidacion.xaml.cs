@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using calculadora_finiquito.ViewModel;
 using MarcTron.Plugin;
@@ -14,10 +15,11 @@ namespace calculadora_finiquito
     public partial class Liquidacion : ContentPage
     {
         Calculos calculos;
+        Resultados resultados;
         float sal_min;
-        public Liquidacion(float sal_min )
+        public Liquidacion(float sal_min)
         {
-            CrossMTAdmob.Current.OnInterstitialLoaded += (sender, e) => { CrossMTAdmob.Current.ShowInterstitial(); };
+            
             InitializeComponent();
             this.sal_min = sal_min;
         }
@@ -29,7 +31,7 @@ namespace calculadora_finiquito
                 ent_vac_nop.IsEnabled = true;
 
             }
-            else 
+            else
             {
                 ent_vac_nop.IsEnabled = false;
             }
@@ -39,20 +41,41 @@ namespace calculadora_finiquito
         {
             DateTime hoy = DateTime.Today;
             hoy = hoy.AddDays(-1);
-            dp_ingreso.MaximumDate= hoy;
-            
+            dp_ingreso.MaximumDate = hoy;
+
         }
 
         private void btn_calcular_Clicked(object sender, EventArgs e)
         {
-           
-            CrossMTAdmob.Current.LoadInterstitial("ca-app-pub-8967169262052512/3216972468");
+            CargarAnuncio();
+        }
+
+        private void CargarAnuncio()
+        {
+            //    CrossMTAdmob.Current.OnInterstitialClosed -= InterstitialCerrado;
+            //    CrossMTAdmob.Current.OnInterstitialLoaded += (sender, e) => { CrossMTAdmob.Current.ShowInterstitial(); };
+            //    CrossMTAdmob.Current.LoadInterstitial("ca-app-pub-3940256099942544/1033173712");//("ca-app-pub-8967169262052512/3216972468");
+            CalcularResultado();
+            InterstitialCerrado();
+            //CrossMTAdmob.Current.OnInterstitialClosed += InterstitialCerrado;
+            //btn_calcular.Text = "Calculando ...";
+
+
+        }
+        private void InterstitialCerrado()//(object sender, EventArgs e)
+        {
+            
+            Navigation.PushAsync(new Resultados(calculos, true));
+
+        }
+
+        public void CalcularResultado()
+        {
             int periodo = pk_periodo.SelectedIndex;
 
             switch (periodo)
             {
                 case 0:
-                    
                     periodo = 7;
                     break;
                 case 1:
@@ -63,7 +86,7 @@ namespace calculadora_finiquito
                     break;
 
             }
-            
+
 
             int dias_nop = 0;
             int vac_nop = 0;
@@ -75,8 +98,8 @@ namespace calculadora_finiquito
                 }
                 catch (Exception ex)
                 {
-                    dias_nop  =(int) Math.Floor(float.Parse(ent_idas_nop.Text));
-                     
+                    dias_nop = (int)Math.Floor(float.Parse(ent_idas_nop.Text));
+
                 }
 
             }
@@ -105,12 +128,13 @@ namespace calculadora_finiquito
             }
 
 
-            
-            calculos = new Calculos(sal_min, float.Parse(ent_sueldo.Text), periodo, dp_ingreso.Date, dp_egreso.Date,diasdevac_aux,dias_nop,vac_nop,true);
 
-            Navigation.PushAsync(new Resultados(calculos,true));
+            calculos = new Calculos(sal_min, float.Parse(ent_sueldo.Text), periodo, dp_ingreso.Date, dp_egreso.Date, diasdevac_aux, dias_nop, vac_nop, true);
 
+           
+            //Navigation.PushAsync(new Resultados(calculos, true));
         }
+
         public int calcular_dias_de_vac()
         {
             int anios = obtener_antiguedad();
@@ -199,7 +223,7 @@ namespace calculadora_finiquito
 
         private void ent_sueldo_PropertyChanging(object sender, PropertyChangingEventArgs e)
         {
-            if (ent_sueldo.Text != "0" && ent_sueldo.Text != "" && ent_sueldo.Text != null && pk_periodo.SelectedIndex != -1 )
+            if (ent_sueldo.Text != "0" && ent_sueldo.Text != "" && ent_sueldo.Text != null && pk_periodo.SelectedIndex != -1)
             {
                 btn_calcular.IsEnabled = true;
             }

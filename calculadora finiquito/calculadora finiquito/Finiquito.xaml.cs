@@ -14,6 +14,7 @@ namespace calculadora_finiquito
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Finiquito : ContentPage
     {
+        Calculos calculos;
         float sal_min;
         public Finiquito(float sal_min)
         {
@@ -21,14 +22,32 @@ namespace calculadora_finiquito
             InitializeComponent();
             this.sal_min = sal_min;
         }
-        private void btn_calcular_Clicked(object sender, EventArgs e)
-        {
-            CrossMTAdmob.Current.LoadInterstitial("ca-app-pub-8967169262052512/3216972468");
 
-            Calculos calculos;
+        private void CargarAnuncio()
+        {
+            //CrossMTAdmob.Current.LoadInterstitial("ca-app-pub-8967169262052512/3216972468");
+            //CrossMTAdmob.Current.OnInterstitialClosed -= InterstitialCerrado;
+            //CrossMTAdmob.Current.OnInterstitialLoaded += (sender, e) => { CrossMTAdmob.Current.ShowInterstitial(); };
+            //CrossMTAdmob.Current.LoadInterstitial("ca-app-pub-3940256099942544/1033173712");
+            CalcularResultado();
+            InterstitialCerrado();
+            //CrossMTAdmob.Current.OnInterstitialClosed += InterstitialCerrado;
+            //btn_calcular.Text = "Calculando ...";
+
+
+        }
+        private void InterstitialCerrado()//(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Resultados(calculos, false));
+            //Navigation.PushAsync(new Resultados(calculos, true));
+
+        }
+
+        private void CalcularResultado()
+        {
             int dias_nop = 0;
             int vac_nop = 0;
-            
+
             int periodo = pk_periodo.SelectedIndex;
 
             switch (periodo)
@@ -83,8 +102,14 @@ namespace calculadora_finiquito
             }
 
 
-            calculos = new Calculos(sal_min, float.Parse(ent_sueldo.Text), periodo, dp_ingreso.Date, dp_egreso.Date, diasdevac_aux, dias_nop, vac_nop,false);
-            Navigation.PushAsync(new Resultados(calculos, false));
+            calculos = new Calculos(sal_min, float.Parse(ent_sueldo.Text), periodo, dp_ingreso.Date, dp_egreso.Date, diasdevac_aux, dias_nop, vac_nop, false);
+
+
+        }
+        private void btn_calcular_Clicked(object sender, EventArgs e)
+        {
+            CargarAnuncio();
+             
 
         }
         private void chb_vac_CheckedChanged(object sender, CheckedChangedEventArgs e)

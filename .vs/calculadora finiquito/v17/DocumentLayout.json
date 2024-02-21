@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|c:\\users\\snk93\\onedrive\\documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\liquidacion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|solutionrelative:calculadora finiquito\\calculadora finiquito\\liquidacion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|c:\\users\\snk93\\onedrive\\documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\finiquito.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|solutionrelative:calculadora finiquito\\calculadora finiquito\\finiquito.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5B4A6A-FA37-4087-89EC-B3490D514657}|calculadora finiquito\\calculadora finiquito.Android\\calculadora finiquito.Android.csproj|C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A5B4A6A-FA37-4087-89EC-B3490D514657}|calculadora finiquito\\calculadora finiquito.Android\\calculadora finiquito.Android.csproj|solutionrelative:calculadora finiquito\\calculadora finiquito.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|c:\\users\\snk93\\onedrive\\documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\resultados.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|solutionrelative:calculadora finiquito\\calculadora finiquito\\resultados.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|c:\\users\\snk93\\onedrive\\documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|solutionrelative:calculadora finiquito\\calculadora finiquito\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|c:\\users\\snk93\\onedrive\\documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|solutionrelative:calculadora finiquito\\calculadora finiquito\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|c:\\users\\snk93\\onedrive\\documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\finiquito.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|solutionrelative:calculadora finiquito\\calculadora finiquito\\finiquito.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|c:\\users\\snk93\\onedrive\\documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\liquidacion.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|solutionrelative:calculadora finiquito\\calculadora finiquito\\liquidacion.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|c:\\users\\snk93\\onedrive\\documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\resultados.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{D21CB0CA-EB58-4631-A90F-55EC544B1C20}|calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj|solutionrelative:calculadora finiquito\\calculadora finiquito\\resultados.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Finiquito.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\Finiquito.xaml.cs",
+              "RelativeDocumentMoniker": "calculadora finiquito\\calculadora finiquito\\Finiquito.xaml.cs",
+              "ToolTip": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\Finiquito.xaml.cs",
+              "RelativeToolTip": "calculadora finiquito\\calculadora finiquito\\Finiquito.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:44:18.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Liquidacion.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\Liquidacion.xaml.cs",
+              "RelativeDocumentMoniker": "calculadora finiquito\\calculadora finiquito\\Liquidacion.xaml.cs",
+              "ToolTip": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\Liquidacion.xaml.cs",
+              "RelativeToolTip": "calculadora finiquito\\calculadora finiquito\\Liquidacion.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwEAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:44:18.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "calculadora finiquito\\calculadora finiquito\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\MainPage.xaml.cs",
+              "RelativeToolTip": "calculadora finiquito\\calculadora finiquito\\MainPage.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:44:18.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resultados.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\Resultados.xaml.cs",
+              "RelativeDocumentMoniker": "calculadora finiquito\\calculadora finiquito\\Resultados.xaml.cs",
+              "ToolTip": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\Resultados.xaml.cs",
+              "RelativeToolTip": "calculadora finiquito\\calculadora finiquito\\Resultados.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:44:18.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\MainPage.xaml",
+              "RelativeDocumentMoniker": "calculadora finiquito\\calculadora finiquito\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\MainPage.xaml",
+              "RelativeToolTip": "calculadora finiquito\\calculadora finiquito\\MainPage.xaml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAA4AAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-21T05:44:18.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "calculadora finiquito\\calculadora finiquito.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "calculadora finiquito\\calculadora finiquito.Android\\Properties\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKsSURBVDhP1VTfS1pxFD9eNa81zdQSxYcSuiHKStRKYvQ0kHC\u002BG4P20Mvspa3noTEQ9tJ7w8fh/gAfVBAmIyh/RBGUeKEgzIcsp5mpQebOvXztYVNYbS/7wOHCOd/v557zOd9z4F9DQL7g9Xo9zWbTU61Wiac7RCIRMAwDbre7TNP0O7PZ/IOEeDwQLi0t\u002BVUqlc9kMhFPd5ycnEClUgEkquHZTblc/nlqaoolYRCRL9TrdRgbGwOn00k83RGLxXhLpVLPEGvDw8P1ZDL5ZWZmhiel\u002BFOPRLvdhpubG4hEInBxcfEBpVokoacRdnB3dweJRAJCoRDxPIHQYrHA8vLyg6HuvKYdPJpwZGQEuMZ1bGBgAO7v70n0L0vuhv\u002BIkKKokEAgcOOT4E0oFKYKhQJkMpl0xycWi1PoJze6gyfc2dnxzM7OLuJYWQcHBxmJRJI4PT09z2azXOw8EAh88/l8zOHhoaLRaPDj1wsUZuDCi6v4OH3Ysbfom8RMxPj6IZ/PQ6vVAp1OJxsdHX2/t7fH5HI5wLPQK1OqVquFt7a2pkulUm18fDyG4/QGD4t2d3dplAAcDge4XK4WjmQRf3wbj8fh\u002BPgY\u002Bvr6gIv/CioYDIJSqQSFQrGJRKv4AzXOdRSTfIEGNpsNWJYtoQxOXALfuew40l5lUwsLC3B9fc3ZKyxvBbMVHhwcaGQyGV0sFr/ixY9arVaO8U9HR0fPOSKr1cpL0Q0UlrluMBhY1I85Ozt7bTQa11ArmVqthqGhIRbJUtgMen9//yX6NBMTE8BlHg6HIRqNwtXVFfT39xM6XF92u92/vb3dwm5OX15ecs9nslwui3Hf8WPGIZ1O36I/Pjc3p9Tr9XyzuE3DASsBqVT6sA9/U3VjY0OLWmbm5\u002Bd1mN26RqPxk9AfAOAnBdQX7wXwY0sAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-02-21T05:44:18.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resultados.xaml",
+              "DocumentMoniker": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\Resultados.xaml",
+              "RelativeDocumentMoniker": "calculadora finiquito\\calculadora finiquito\\Resultados.xaml",
+              "ToolTip": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\Resultados.xaml",
+              "RelativeToolTip": "calculadora finiquito\\calculadora finiquito\\Resultados.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-21T05:44:18.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Liquidacion.xaml",
+              "DocumentMoniker": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\Liquidacion.xaml",
+              "RelativeDocumentMoniker": "calculadora finiquito\\calculadora finiquito\\Liquidacion.xaml",
+              "ToolTip": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\Liquidacion.xaml",
+              "RelativeToolTip": "calculadora finiquito\\calculadora finiquito\\Liquidacion.xaml",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAK0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-21T05:44:18.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Finiquito.xaml",
+              "DocumentMoniker": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\Finiquito.xaml",
+              "RelativeDocumentMoniker": "calculadora finiquito\\calculadora finiquito\\Finiquito.xaml",
+              "ToolTip": "C:\\Users\\SNK93\\OneDrive\\Documentos\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\Finiquito.xaml",
+              "RelativeToolTip": "calculadora finiquito\\calculadora finiquito\\Finiquito.xaml",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAKUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-21T05:44:18.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
