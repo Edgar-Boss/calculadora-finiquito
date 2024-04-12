@@ -1,0 +1,105 @@
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.deps.json
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.dll
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.pdb
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.csproj.AssemblyReference.cache
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.AssemblyInfoInputs.cache
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.AssemblyInfo.cs
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.dll
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\refint\calculadora finiquito.dll
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.pdb
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\ref\calculadora finiquito.dll
+C:\Users\Edgar\source\repos\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Liquidacion.xaml.g.cs
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.deps.json
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.dll
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.pdb
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.csproj.AssemblyReference.cache
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Liquidacion.xaml.g.cs
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.AssemblyInfoInputs.cache
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.AssemblyInfo.cs
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.csproj.CoreCompileInputs.cache
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.dll
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\refint\calculadora finiquito.dll
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.pdb
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\ref\calculadora finiquito.dll
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.deps.json
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.dll
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.pdb
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.csproj.AssemblyReference.cache
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Liquidacion.xaml.g.cs
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.AssemblyInfoInputs.cache
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.AssemblyInfo.cs
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.csproj.CoreCompileInputs.cache
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.dll
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\refint\calculadora finiquito.dll
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.pdb
+C:\Users\EjeDesarrolloCS-162\Desktop\proj\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\ref\calculadora finiquito.dll
+C:\Users\EjeDesarrolloCS-162\Desktop\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Resultados.xaml.g.cs
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.deps.json
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.dll
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.pdb
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.csproj.AssemblyReference.cache
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Liquidacion.xaml.g.cs
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Resultados.xaml.g.cs
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.AssemblyInfoInputs.cache
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.AssemblyInfo.cs
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.csproj.CoreCompileInputs.cache
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.dll
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\refint\calculadora finiquito.dll
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.pdb
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\ref\calculadora finiquito.dll
+D:\Proyectos\calculadora finiquito\calculadora finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Finiquito.xaml.g.cs
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.deps.json
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.dll
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.pdb
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.csproj.AssemblyReference.cache
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Finiquito.xaml.g.cs
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Liquidacion.xaml.g.cs
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Resultados.xaml.g.cs
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.AssemblyInfoInputs.cache
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.AssemblyInfo.cs
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.csproj.CoreCompileInputs.cache
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.sourcelink.json
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.dll
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\refint\calculadora finiquito.dll
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.pdb
+C:\Users\SNK93\OneDrive\Documentos\Calculadora finiq\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\ref\calculadora finiquito.dll
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.deps.json
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.dll
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\bin\Debug\netstandard2.0\calculadora finiquito.pdb
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.csproj.AssemblyReference.cache
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Finiquito.xaml.g.cs
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Liquidacion.xaml.g.cs
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\Resultados.xaml.g.cs
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.AssemblyInfoInputs.cache
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.AssemblyInfo.cs
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.csproj.CoreCompileInputs.cache
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.sourcelink.json
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.dll
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\refint\calculadora finiquito.dll
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\calculadora finiquito.pdb
+C:\Users\SNK93\OneDrive\Escritorio\calculadora-finiquito\calculadora finiquito\calculadora finiquito\obj\Debug\netstandard2.0\ref\calculadora finiquito.dll

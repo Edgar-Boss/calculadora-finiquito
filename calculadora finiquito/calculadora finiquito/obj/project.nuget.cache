@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "+eY6u8gLvmhJAXWX+yv+qxPDrT2BhaxV4kdKzNyagyuVVkm5BKjJ/RGcH3g8gUE4jCzT/uSERAAR+dpw4uL+jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SNK93\\OneDrive\\Escritorio\\calculadora-finiquito\\calculadora finiquito\\calculadora finiquito\\calculadora finiquito.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SNK93\\.nuget\\packages\\marctron.admob\\1.9.0.3\\marctron.admob.1.9.0.3.nupkg.sha512",
+    "C:\\Users\\SNK93\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SNK93\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\SNK93\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\SNK93\\.nuget\\packages\\xamarin.build.download\\0.11.0\\xamarin.build.download.0.11.0.nupkg.sha512",
+    "C:\\Users\\SNK93\\.nuget\\packages\\xamarin.essentials\\1.7.5\\xamarin.essentials.1.7.5.nupkg.sha512",
+    "C:\\Users\\SNK93\\.nuget\\packages\\xamarin.forms\\5.0.0.2545\\xamarin.forms.5.0.0.2545.nupkg.sha512",
+    "C:\\Users\\SNK93\\.nuget\\packages\\xamarin.forms.openwhatsapp\\1.0.1\\xamarin.forms.openwhatsapp.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
