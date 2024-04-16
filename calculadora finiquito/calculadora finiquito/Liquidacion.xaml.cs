@@ -52,12 +52,13 @@ namespace calculadora_finiquito
 
         private void CargarAnuncio()
         {
-            CrossMTAdmob.Current.OnInterstitialClosed -= InterstitialCerrado;
-            CrossMTAdmob.Current.OnInterstitialLoaded += (sender, e) => { CrossMTAdmob.Current.ShowInterstitial(); };
-            CrossMTAdmob.Current.LoadInterstitial("ca-app-pub-3940256099942544/1033173712");//("ca-app-pub-8967169262052512/3216972468");
+            //CrossMTAdmob.Current.OnInterstitialClosed -= InterstitialCerrado;
+            //CrossMTAdmob.Current.OnInterstitialLoaded += (sender, e) => { CrossMTAdmob.Current.ShowInterstitial(); };
+            //CrossMTAdmob.Current.LoadInterstitial("ca-app-pub-3940256099942544/1033173712");//("ca-app-pub-8967169262052512/3216972468");
             CalcularResultado();
-            CrossMTAdmob.Current.OnInterstitialClosed += InterstitialCerrado;
-            btn_calcular.Text = "Calculando ...";
+            Navigation.PushAsync(new Resultados(calculos, true));
+            //CrossMTAdmob.Current.OnInterstitialClosed += InterstitialCerrado;
+            //btn_calcular.Text = "Calculando ...";
 
 
         }
